@@ -1,32 +1,14 @@
 ---
 layout: post
-title: 'This is my first blog post'
-date: 2021-08-21
-categories: something
+title: 'thinking a lot about NFTs lately'
+date: 2021-08-25
+categories: crypto
 ---
 
-Something goes here.
+it's a new day and i've thought so much about NFTs... i am doing this deep dive, going down the rabbit hole. the implications are kind of insane. having been in crypto since 2014-2015 (yes i sold and should have held and followed my own advice but i didn't and that's my fault) but it seems like NFTs are an unlock because they're helping bolster new economies. sure we can talk about the creator economy but NFTs are interesting because they might be able to be used as keys or doorways into communities, entrances into certain experiences. theres also the verification bit that might help verify identities, etc....
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+its becoming obvious that crypto is the future as the entire financial stack is being rewritten but this is a long process and we are in early days though i do think that when people look at the momentum up close, like really take a look, it will already be here.
 
-Jekyll requires blog post files to be named according to the following format:
+im trying this new thing where i don't edit and don't care about punctuation - which is very unlike me
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+thanks for reading :)
