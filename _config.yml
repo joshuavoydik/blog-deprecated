@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: learning/building/writing
-email: joshua@swell.is
 author: Joshua Voydik
 description: >- # this means to ignore newlines until "baseurl:"
   I write about random topics that I've been researching and thinking about.
@@ -27,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joshuavoydik
-github_username: joshuavoydik
+
 
 # Build settings
 theme: minima
