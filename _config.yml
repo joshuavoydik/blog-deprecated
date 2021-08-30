@@ -21,7 +21,7 @@
 title: Learning/Building/Writing
 author: Joshua Voydik
 description: >- # this means to ignore newlines until "baseurl:"
-  I write (without editing) about random topics that I've been researching and thinking about.
+  I write (with little editing) about random topics that I've been researching and thinking about.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
